@@ -14,3 +14,4 @@ class 학생:
 
 print("hi")
 print("bye")
+print("Hello")
